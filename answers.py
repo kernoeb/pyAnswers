@@ -1,5 +1,5 @@
 ###################
-#   fastAnswers   #
+#    pyAnswers    #
 #   by @kernoeb   #
 ###################
 
@@ -12,6 +12,7 @@ from geopy.geocoders import Nominatim
 from googletrans import Translator
 
 # Selenium
+# https://selenium-python.readthedocs.io/
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
