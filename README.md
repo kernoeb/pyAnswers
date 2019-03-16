@@ -1,9 +1,13 @@
 # pyAnswers
-Fast answers from some APIs and others useless things
+Fast answers from some APIs and others useless things  
+
+/!\ **Disclaimer:**  
+There may be some errors at the moment  
+Maybe you can send bad settings and blow up the script  
 
 # Usage :
 * DeepL  
-Only in French for the moment  
+Only in French at the moment  
 **a_deepl("word or sentence")**
 
 * Lorem Ipsum Generator  
